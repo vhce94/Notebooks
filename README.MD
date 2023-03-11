@@ -12,7 +12,7 @@ El trabajo corresponde al módulo final del diplomado en ESTADÍSTICA APLICADA A
 
 Lugar: Cochabamba (Bolivia)
 
-Autor: Victor H. Cruz. E.
+Autor: Victor H. Cruz.
 
 Correo: victor.vhce.94@gmail.com
 
