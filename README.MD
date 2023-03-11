@@ -11,8 +11,11 @@ ______
 El trabajo corresponde al módulo final del diplomado en ESTADÍSTICA APLICADA A LA TOMA DE DECISIONES de la Universidad Mayor de San Simón 
 
 Lugar: Cochabamba (Bolivia)
+
 Autor: Victor H. Cruz. E.
+
 Correo: victor.vhce.94@gmail.com
+
 Reconocimiento de autoria intelecual: Este trabajo tomo como base objetiva y metodológica la investigación de Alvarez Q, Lozano M, & Bravo M (2022). *Metodología para el mantenimiento predictivo de transformadores de distribución basada en aprendizaje automático*. 
 
 
