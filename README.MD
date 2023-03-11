@@ -1,6 +1,6 @@
 # Implementación de un modelo de machine learning aplicado al mantenimiento predictivo 
 
-El proyecto tiene como objetivo la implementación de un modelo capaz de predecir si un transformador está quemado o en buen estado y aplicando análisis de datos generar un plan de mantenimiento generalizado que será asignado a cada máquina detectada en estado de falla.
+El proyecto tiene como objetivo la implementación de un modelo capaz de predecir si un transformador está quemado o en buen estado, además de aplicar técnicas análisis de datos con Tableau para generar un plan de mantenimiento generalizado que será asignado a cada máquina detectada en estado de falla.
 
 Para el desarrollo de los modelos se optó por usar los algortimos de clasificación de scikit-learn: Logistic regresion, decission tree, random forest, SVM y K-NN. El modelo final seleccionado corresponde al algoritmo random forest con un 85% de exahustividad.
 
