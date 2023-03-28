@@ -16,6 +16,6 @@ Autor: Victor H. Cruz.
 
 Correo: victor.vhce.94@gmail.com
 
-Reconocimiento intelecual: El presente trabajo tomó como base objetiva y metodológica, la investigación de Alvarez Q, Lozano M, & Bravo M (2022). *Metodología para el mantenimiento predictivo de transformadores de distribución basada en aprendizaje automático*. 
+Reconocimiento intelecual: El presente trabajo toma como base objetiva y metodológica, la investigación de Alvarez Q, Lozano M, & Bravo M (2022). *Metodología para el mantenimiento predictivo de transformadores de distribución basada en aprendizaje automático*. 
 
 
